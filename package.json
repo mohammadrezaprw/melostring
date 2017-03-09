@@ -1,0 +1,25 @@
+{
+  "name": "melostring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadrezaprw/melostring.git"
+  },
+  "keywords": [
+    "persian",
+    "arabic",
+    "language",
+    "string"
+  ],
+  "author": "Mohammadreza Lotfi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadrezaprw/melostring/issues"
+  },
+  "homepage": "https://github.com/mohammadrezaprw/melostring#readme"
+}
